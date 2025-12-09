@@ -1,0 +1,1 @@
+alibabacloud-alidns20150109>=3.0.0
